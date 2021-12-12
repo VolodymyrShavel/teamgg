@@ -1,0 +1,27 @@
+.content {
+   display: flex;
+   align-items: center;
+   height: 100%;
+   width: 100%;
+}
+
+.content img {
+   left: 10px;
+   position: relative;
+   width: 65px;
+   border-radius: 100px;
+}
+.gameName {
+   padding-left: 20px;
+}
+.gameName::first-letter {
+   font-size: 1.5em;
+   background-color: rgb(50, 138, 173);
+   color: #fff;
+   margin-right: 0.2em;
+   padding: 0 0.2em 0.1em 0.2em;
+   border-radius: 0.1em 0.1em;
+}
+a {
+   color: black;
+}

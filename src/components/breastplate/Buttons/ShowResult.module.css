@@ -1,0 +1,59 @@
+/* .cards {
+   font-size: 16px;
+   letter-spacing: 0.03em;
+   font-weight: 300;
+   display: flex;
+   justify-content: center;
+} */
+.cards_main {
+   display: flex;
+   /* justify-content: center; */
+   padding: 0 170px 20px 168px;
+}
+.cards {
+   display: flex;
+   /* width: 70%; */
+   flex-wrap: wrap;
+   padding: 0 170px 20px 167px;
+   /* justify-content: center; */
+}
+.main_tab {
+   display: flex;
+   flex-direction: column;
+}
+.input {
+   /* position: relative; */
+   display: inline-flex;
+   /* justify-content: center; */
+   padding: 0 400px 0 370px;
+}
+.input_place {
+   position: relative;
+   display: flex;
+   margin: 10px 0 10px 0;
+   /* border: 3px solid red; */
+}
+input {
+   height: 30px;
+   margin: 0 0 0 0;
+   border-radius: 15px;
+   padding: 10px;
+   border: 3px solid rgb(20, 57, 78);
+}
+.input_place button {
+   position: absolute;
+   right: 0px;
+   padding: 2px 2px;
+   background: #eeeeee88;
+   border-radius: 50%;
+   border-width: 5px;
+   border-style: double;
+   border-color: rgb(7, 7, 7);
+   /* border: 2px solid; */
+}
+.input_place button:hover {
+   background: #22222288;
+}
+.hidden {
+   display: hidden;
+}

@@ -1,0 +1,31 @@
+body {
+   margin: 0;
+   font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+      'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   /* height: 100%; */
+}
+/* .App {
+   display: flex;
+   flex-direction: column;
+} */
+/* height: 100%; */
+/* flex-wrap: wrap-reverse; */
+/* width: 100vw; */
+
+/* .heading {
+   flex-grow: 1;
+}
+.choose__tag {
+   flex-grow: 1;
+}
+.choose__card {
+   display: flex;
+   flex-wrap: wrap;
+   width: 100%;
+} 
+.footer_down {
+   flex-grow: 1;
+}
+*/

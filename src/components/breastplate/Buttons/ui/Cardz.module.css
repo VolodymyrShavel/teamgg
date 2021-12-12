@@ -1,0 +1,16 @@
+.card {
+   background-color: rgb(255, 255, 255);
+   border-radius: 100px;
+   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+   width: 300px;
+   height: 110px;
+   padding: 20px;
+   transition: 0.3s ease-in-out;
+   cursor: pointer;
+   margin: 2px;
+}
+.card:hover {
+   color: rgb(0, 0, 0);
+   background: #ffffffcc;
+   /* background: rgba(255, 251, 0, 0.808); */
+}

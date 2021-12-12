@@ -1,0 +1,33 @@
+.header {
+   /* width: 100%; */
+   /* padding: 20px 200px 20px 670px; */
+   height: 6rem;
+   display: flex;
+   justify-content: center;
+   background-color: rgba(0, 0, 10, 0.596);
+}
+.header ::before {
+   border: 3px solid red;
+}
+.headerCentred {
+   display: flex;
+   /* justify-content: center; */
+   align-items: center;
+   /* width: 80%; */
+   /* padding: 20px 200px 20px 400px; */
+}
+.img {
+   position: relative;
+   width: 7em;
+   left: 1%;
+}
+.logo {
+   padding: 5px 20px 0 0;
+   /* position: fixed; */
+   /* left: 30%; */
+}
+.text {
+   /* position: fixed; */
+   /* right: 42%; */
+   color: white;
+}
