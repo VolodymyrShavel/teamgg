@@ -7,7 +7,7 @@ import App from './App';
 import Navigation from './Navigation';
 
 ReactDOM.render(
-   <BrowserRouter>
+   <BrowserRouter basename={'/'}>
       <Routes>
          <Route path="/" element={<App />} />
          <Route path="*" element={<Navigation />} />
