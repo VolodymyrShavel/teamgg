@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b874d09c94f37697e50c3d4d991da46",
+    "revision": "b30eb50c4edab9fb0baabfdd12f9bb77",
     "url": "/teamgg/index.html"
   },
   {
-    "revision": "55ec1e437e899c672cc4",
+    "revision": "6ca585350e0d4f05fbad",
     "url": "/teamgg/static/css/main.43a0810e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teamgg/static/js/2.f8d3a973.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55ec1e437e899c672cc4",
-    "url": "/teamgg/static/js/main.8227b8b6.chunk.js"
+    "revision": "6ca585350e0d4f05fbad",
+    "url": "/teamgg/static/js/main.a9bce4c4.chunk.js"
   },
   {
     "revision": "5125b266117f6a9945c4",

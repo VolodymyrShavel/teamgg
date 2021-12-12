@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teamgg/static/css/main.43a0810e.chunk.css",
-    "main.js": "/teamgg/static/js/main.8227b8b6.chunk.js",
-    "main.js.map": "/teamgg/static/js/main.8227b8b6.chunk.js.map",
+    "main.js": "/teamgg/static/js/main.a9bce4c4.chunk.js",
+    "main.js.map": "/teamgg/static/js/main.a9bce4c4.chunk.js.map",
     "runtime-main.js": "/teamgg/static/js/runtime-main.3c97f490.js",
     "runtime-main.js.map": "/teamgg/static/js/runtime-main.3c97f490.js.map",
     "static/js/2.f8d3a973.chunk.js": "/teamgg/static/js/2.f8d3a973.chunk.js",
     "static/js/2.f8d3a973.chunk.js.map": "/teamgg/static/js/2.f8d3a973.chunk.js.map",
     "index.html": "/teamgg/index.html",
-    "precache-manifest.6355139b886440ef9c395185c2eb5a48.js": "/teamgg/precache-manifest.6355139b886440ef9c395185c2eb5a48.js",
+    "precache-manifest.a282a4403a7d75edd9dc802f7674479b.js": "/teamgg/precache-manifest.a282a4403a7d75edd9dc802f7674479b.js",
     "service-worker.js": "/teamgg/service-worker.js",
     "static/css/main.43a0810e.chunk.css.map": "/teamgg/static/css/main.43a0810e.chunk.css.map",
     "static/js/2.f8d3a973.chunk.js.LICENSE.txt": "/teamgg/static/js/2.f8d3a973.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c97f490.js",
     "static/js/2.f8d3a973.chunk.js",
     "static/css/main.43a0810e.chunk.css",
-    "static/js/main.8227b8b6.chunk.js"
+    "static/js/main.a9bce4c4.chunk.js"
   ]
 }
