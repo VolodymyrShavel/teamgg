@@ -13,7 +13,7 @@ function Header() {
                </Link>
             </div>
             <div className={classes.text}>
-               <h2>Собери лучшую КО манду!</h2>
+               <h2>Собери лучшую Команду!</h2>
             </div>
          </div>
       </header>

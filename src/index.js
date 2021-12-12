@@ -15,3 +15,7 @@ ReactDOM.render(
    </BrowserRouter>,
    document.getElementById('root')
 );
+//1. git add .
+//2. git commit -m "Some comment on update"
+//3. git push origin master
+//4. npm run deploy?
